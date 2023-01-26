@@ -1,4 +1,4 @@
-# Perspectives App Template - Documentations
+# Perspectives Sample App Template - Documentation
 
 ## How to use
 * [Use Perspectives sample app template](perspectives.md)
