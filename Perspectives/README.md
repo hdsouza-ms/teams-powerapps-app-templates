@@ -1,4 +1,4 @@
-# Perspectives App Template
+# Perspectives Sample App Template
 
 | [Documentation](Documentation/README.md) | [Installation guide](https://github.com/microsoft/teams-powerapps-app-templates/blob/main/INSTALLATION.md)
 | ---- | ---- |
@@ -7,10 +7,10 @@ The Perspectives sample app template for Microsoft Teams provides a simple way t
 
 Benefits of using the Perspectives app:
 
-- Create discussions.
-- Interact with colleagues.
-- Find interesting discussions.
-- Flag recommended discussions.
+- Create discussions
+- Interact with colleagues
+- Find interesting discussions
+- Flag recommended discussions
 
 ## Trademarks
 
